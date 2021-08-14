@@ -3,6 +3,6 @@
 
 ## Tecnologías usadas
 - Laravel 5.8
-- Vuejs 2
+- Vue js
 - Mysql
 
